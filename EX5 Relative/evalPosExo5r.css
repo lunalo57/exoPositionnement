@@ -1,0 +1,45 @@
+body {
+    background-color: teal;
+}
+
+.box {
+    border: 1px solid pink;
+    width: 100px;
+    height: 100px;
+    padding: 10px;
+    box-sizing: border-box;
+    position: relative;
+}
+
+#container {
+    background-color: aquamarine;
+    padding: 20px;
+    width: 299px;
+    height: 299px;
+    margin: auto;
+    box-sizing: border-box;
+}
+
+#boite0 {
+    background-color: yellow;
+    top: 146px;
+    left: 146px;
+}
+
+#boite1 {
+    background-color: green;
+    top: -80px;
+    left: 20px;
+}
+
+#boite2 {
+    background-color: blue;
+    top: -180px;
+    left: 146px;
+}
+
+#boite3 {
+    background-color: orange;
+    top: -153px;
+    left: 20px;
+}

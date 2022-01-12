@@ -1,0 +1,19 @@
+body {
+    background-color: teal;
+}
+
+@font-face {
+    font-family: "NGD";
+    src: url(../EXFonts/Bangers-Regular.ttf);
+}
+
+h1,
+p {
+    text-align: center;
+    font-family: "NGD";
+}
+
+a:hover {
+    color: rgb(220, 20, 170);
+    text-decoration: none;
+}

@@ -1,0 +1,38 @@
+body {
+    background-color: teal;
+}
+
+.box {
+    border: 1px solid pink;
+    padding: 30px;
+}
+
+#boite0 {
+    width: 400px;
+    height: 200px;
+    margin: auto;
+    border: 3px dotted purple;
+    position: relative;
+}
+
+#boite1 {
+    background-color: green;
+    position: absolute;
+    width: 380px;
+    top: 0;
+    left: 10px;
+}
+
+#boite2 {
+    background-color: blue;
+    position: relative;
+}
+
+#boite3 {
+    background-color: orange;
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 130px;
+    left: 100px;
+}
